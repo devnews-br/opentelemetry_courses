@@ -1,2 +1,2 @@
-# opentelemetry_courses
-OpenTelemetry Courses
+# OpenTelemetry Courses
+## Compilation of the most popular and useful courses
